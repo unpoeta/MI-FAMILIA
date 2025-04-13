@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,9 +7,9 @@
 </head>
 <body>
     <h1>MI FAMILIA ESTA CONFORMADA POR</h1>
-   <H4>MI MAMA RICARDA</H4>
-    <H2>MI PAPA SILVANO
-        <H2>MI HERMANA JULISA</H2>
-        <H5>Y YO </H5>
+   <H4>MI MAMA QUE ES MUY BUENA</H4>
+    <H3>MI PAPA QUE ES BUENO</H3>
+        <H2>MI HERMANA ES MUY FEA </H2>
+        <H5>Y YO SOLAMENTE SOY YO</H5>
 </body>
 </html>
